@@ -1,0 +1,27 @@
+{
+  "name": "ell-radial-string",
+  "version": "0.0.1",
+  "description": "Radial string web component",
+  "main": "lib/ell-radial-string.js",
+  "module": "lib/ell-radial-string.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "wds -c web-dev-server-config.js",
+    "build": "tsc",
+    "watch": "npm run build -- --watch"
+  },
+  "author": "me@ElliottMarquez.dev",
+  "license": "MIT",
+  "dependencies": {
+    "lit-element": "^2.4.0",
+    "lit-html": "^1.3.0",
+    "tslib": "^2.1.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "^7.12.13",
+    "@open-wc/dev-server-hmr": "^0.1.1",
+    "@web/dev-server": "^0.1.7",
+    "typescript": "^4.1.4"
+  }
+}
