@@ -5,6 +5,11 @@
   "main": "lib/ell-radial-text.js",
   "module": "lib/ell-radial-text.js",
   "type": "module",
+  "homepage": "https://jsbin.com/sisinidede/1/edit?output",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/e111077/ell-radial-text"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "npm run build && wds -c web-dev-server-config.js",
