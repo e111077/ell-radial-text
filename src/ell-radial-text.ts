@@ -88,12 +88,8 @@ export class EllRadialText extends LitElement {
       `;
     });
 
-    const wrapperStyles = styleMap({
-      height: `${2 * this.radius}px`,
-    });
-
     return html`
-      <div id="wrapper" style=${wrapperStyles} aria-label=${this.text}>
+      <div id="wrapper" aria-label=${this.text}>
         ${textPartTemplates}
       </div>
     `;
