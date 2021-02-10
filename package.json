@@ -1,9 +1,9 @@
 {
-  "name": "ell-radial-string",
+  "name": "ell-radial-text",
   "version": "0.0.1",
-  "description": "Radial string web component",
-  "main": "lib/ell-radial-string.js",
-  "module": "lib/ell-radial-string.js",
+  "description": "Radial text web component",
+  "main": "lib/ell-radial-text.js",
+  "module": "lib/ell-radial-text.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
