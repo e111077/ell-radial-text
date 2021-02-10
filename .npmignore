@@ -3,3 +3,4 @@ node_modules
 .vscode
 web-dev-server-config.js
 demo
+lib/demo
