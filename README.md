@@ -8,6 +8,8 @@
 
 A simple webcomponent that wraps text around a circle.
 
+[Demo!](https://jsbin.com/sisinidede/1/edit?html,output)
+
 ## Examples
 
 The image above can be set up like so:
