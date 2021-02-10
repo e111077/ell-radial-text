@@ -8,7 +8,7 @@ export class EllRadialText extends LitElement {
   static styles = css`
     :host {
       display: inline-flex;
-      font-family: monospace;
+      font-family: var(--ell-font-family, monospace);
     }
 
     #wrapper {
