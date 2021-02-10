@@ -4,7 +4,7 @@
   Author: e111077
   -->
 # <ell-radial-text&gt;
-![ell-radial-text](./demo/img/title.png)
+<img src="./demo/img/title.png" alt="ell-radial-text" width="100%">
 
 A simple webcomponent that wraps text around a circle.
 
