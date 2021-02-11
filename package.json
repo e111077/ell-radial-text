@@ -1,6 +1,6 @@
 {
   "name": "ell-radial-text",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Radial text web component",
   "main": "lib/ell-radial-text.js",
   "module": "lib/ell-radial-text.js",
