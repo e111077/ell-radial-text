@@ -45,9 +45,9 @@ The image above can be set up like so:
 
 ### Styling
 
-| Custom Property     | Default     | Description |
-| ------------------- | ----------- | ----------- |
-| `--ell-font-family` | `monospace` | The font-family of the text |
+| Custom Property     | Default                   | Description |
+| ------------------- | ------------------------- | ----------- |
+| `--ell-font-family` | `ui-monospace, monospace` | The font-family of the text |
 
 **It is HIGHLY recommended to use a monospace font-face.**
 

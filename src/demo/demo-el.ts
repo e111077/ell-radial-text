@@ -63,7 +63,7 @@ export class DemoEl extends LitElement {
 
   @internalProperty() private text = 'Hello World';
   @internalProperty() private radius = 150;
-  @internalProperty() private step = 6;
+  @internalProperty() private step = 8;
   @internalProperty() private start = 0;
   @internalProperty() private autoStep = false;
   @internalProperty() private centerDirection: CenterDirection = 'AUTO';
@@ -86,7 +86,7 @@ export class DemoEl extends LitElement {
         <div>
           <label>
             step (deg):
-            <input type="number" pattern="[0-9]*" value="6" @input=${this.stepOnInput}>
+            <input type="number" pattern="[0-9]*" value="8" @input=${this.stepOnInput}>
           </label>
         </div>
         <div>
