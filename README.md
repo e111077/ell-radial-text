@@ -8,7 +8,7 @@
 
 A simple webcomponent that wraps text around a circle.
 
-[Demo!](https://jsbin.com/sisinidede/1/edit?html,output)
+[Demo!](https://jsbin.com/kuxidecemu/edit?html,output)
 
 ## Examples
 
